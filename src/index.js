@@ -74,9 +74,9 @@ function createMarkup({ hits }) {
   gallery.refresh();
 }
 
-function clearImageList() {
-  caseImages.innerHTML = '';
-}
+// function clearImageList() {
+//   caseImages.innerHTML = '';
+// }
 
 async function fetchMoreImages() {
   loadMoreBtn.disable();
