@@ -75,7 +75,7 @@ function createMarkup({ hits }) {
 }
 
 function clearImageList() {
-  document.querySelector('.gallery').innerHTML = '';
+  caseImages.innerHTML = '';
 }
 
 async function fetchMoreImages() {
