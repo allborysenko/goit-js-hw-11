@@ -1,5 +1,5 @@
 import SearchImages from './fetchImage.js';
-  import LoadMoreBtn from './loadMoreBtn';
+import LoadMoreBtn from './btn.js'
 
 import Notiflix from 'notiflix';
 import SimpleLightbox from 'simplelightbox';
