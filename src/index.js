@@ -1,5 +1,6 @@
 import SearchImages from './fetchImage';
-import LoadMoreBtn from './loadmorebtn';
+import LoadMoreBtn from './loadMoreBtn';
+
 import Notiflix from 'notiflix';
 import SimpleLightbox from 'simplelightbox';
 import 'simplelightbox/dist/simple-lightbox.min.css';
